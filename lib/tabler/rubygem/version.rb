@@ -1,6 +1,6 @@
 module Tabler
   module Rubygem
-    VERSION    = '0.1.4'
-    TABLER_SHA = '748028000ba6603090c1f5a741e906b59ed934b2'
+    VERSION    = '0.1.5'
+    TABLER_SHA = '66f25ab40e82b9ae482edbeac91ba8ab265993ef'
   end
 end
